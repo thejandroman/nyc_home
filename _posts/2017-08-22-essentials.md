@@ -1,6 +1,5 @@
 ---
 title:  Essentials
-categories: [essential]
 excerpt: |
     Start here
 ---
