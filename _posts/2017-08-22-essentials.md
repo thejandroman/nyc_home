@@ -1,7 +1,6 @@
 ---
 title:  Essentials
 categories: [essential]
-tags: [wifi, physical access]
 excerpt: |
     Start here
 ---

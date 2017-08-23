@@ -13,7 +13,7 @@ pre.highlight code,
   white-space: pre-wrap;
 }
 
-.btn, 
+.btn,
 .navigation__item a {
   margin: 5px 0;
   white-space: nowrap;
@@ -24,8 +24,7 @@ pre.highlight code,
   padding: 10px;
 }
 
-.categories a,
-.tags a {
+.categories a {
   border: 1px solid #e25440;
   border-radius: 20px;
   color: #e25440;
@@ -35,11 +34,6 @@ pre.highlight code,
   padding: 5px 10px;
   text-shadow: none;
   white-space: nowrap;
-}
-
-.post-meta__tags {
-  font-size: 12px;
-  padding: 0 5px;
 }
 
 .footer__copyright {
