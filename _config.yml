@@ -1,5 +1,5 @@
 # Site settings
-title: NYC Home
+title: Casa Cuidad
 description: >
   330 E 39th St |
   25M |
@@ -11,10 +11,10 @@ baseurl: '/'
 
 author:
   name: 'Alejandro Figueroa'
-  email: alejandro@ideasftw.com
+  # email: alejandro@ideasftw.com
   # twitter_username:
   # facebook_username:
-  github_username: thejandroman
+  # github_username: thejandroman
   # linkedin_username:
 
 defaults:
