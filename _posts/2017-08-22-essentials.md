@@ -21,3 +21,7 @@ recognize you.
 The keys you were provided allow access to our apartment, `25M`. Both
 keys look very similar but they each open either the dead bolt or the
 knob.
+
+## Toilet Paper
+
+Extra rolls of toilet paper can be found at the top of the linen closet.
