@@ -25,3 +25,9 @@ knob.
 ## Toilet Paper
 
 Extra rolls of toilet paper can be found at the top of the linen closet.
+
+## Elevators
+
+The freight elevator is only accessible on weekends and outside business hours on weekdays without a reservation.
+
+Be warned that elevator rush hour does exist in the mornings and evenings. Plan accordingly.
