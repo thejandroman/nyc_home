@@ -12,6 +12,8 @@ The closest Subway station is [Grand Central Terminal](http://www.grandcentralte
 
 The standard fare is $2.75 and you can buy a metrocard in any station.  There might also be a few on our entry table, feel free to use and add money if necessary.
 
+Also feel free to use the EasyPay MetroCard if it was left on the entry table. Unlike a regular MetroCard this card is linked to our CC and will autorefill if the balance drops below a certain threshold. The main thing to remember with this card is that it's not disposable like a regular MetroCard. If it is misplaced please let us know so we can deactivate it.
+
 [MTA Website with Map](http://web.mta.info/maps/submap.html)
 
 ## [NYC Ferry](https://www.ferry.nyc/)
